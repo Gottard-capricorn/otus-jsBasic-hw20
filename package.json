@@ -25,8 +25,11 @@
   },
   "homepage": "https://github.com/Gottard-capricorn/otus-jsBasic-hw20#readme",
   "devDependencies": {
+    "@babel/core": "^7.28.4",
+    "@babel/preset-env": "^7.28.3",
     "@eslint/js": "^9.38.0",
     "@types/jest": "^30.0.0",
+    "babel-jest": "^30.2.0",
     "eslint": "^9.38.0",
     "eslint-plugin-jest": "^29.0.1",
     "globals": "^16.4.0",
