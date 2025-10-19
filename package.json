@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Gottard-capricorn/otus-jsBasic-hw20/issues"
   },
-  "homepage": "https://github.com/Gottard-capricorn/otus-jsBasic-hw20#readme"
+  "homepage": "https://github.com/Gottard-capricorn/otus-jsBasic-hw20#readme",
+  "devDependencies": {
+    "eslint": "^9.38.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.4",
+    "prettier": "^3.6.2"
+  }
 }
