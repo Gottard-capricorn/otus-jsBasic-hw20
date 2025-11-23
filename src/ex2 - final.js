@@ -1,4 +1,4 @@
-function User() {
+export function User() {
     this.AskName = function() {
         this.Age = prompt("Write your age: ");
         function AskAge() {

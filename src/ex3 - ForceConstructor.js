@@ -1,4 +1,4 @@
-function ForceConstructor(...params) {
+export function ForceConstructor(...params) {
     if (!this) {
         return new ForceConstructor(...params)
     }

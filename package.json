@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest src",
     "format:check": "prettier --check .",
     "format:fix": "prettier --write .",
     "prepare": "husky"
